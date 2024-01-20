@@ -21,4 +21,3 @@ Copy and paste this line into your terminal window - `check50 heyajay312/check/m
 
 ## Conclusion:
 Your challenge is to complete the find_max function to correctly identify the maximum value in the array of numbers. Don't worry if it seems a bit challenging at first – take your time, experiment, and have fun with it!
-Your challenge is to complete the `find_max` function to correctly identify the maximum value in the array of numbers. Don't worry if it seems a bit challenging at first – take your time, experiment, and have fun with it!
