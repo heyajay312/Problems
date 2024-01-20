@@ -18,7 +18,7 @@ Your only task is to write a function called `find_max` that takes an array of n
 After you've found the maximum value using your function, the program will print it out for you to see.
 
 ## How to Check your Code:
-Copy and paste this line into your terminal window - `check50 heyajay312/check_problem/main/find_max`. Then, after some time, you can check your result.
+Copy and paste this line into your terminal window - `check50 heyajay312/check/main/find_max`. Then, after some time, you can check your result.
 
 ## Conclusion:
 Your challenge is to complete the find_max function to correctly identify the maximum value in the array of numbers. Don't worry if it seems a bit challenging at first – take your time, experiment, and have fun with it!
