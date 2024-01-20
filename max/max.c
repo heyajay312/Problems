@@ -20,7 +20,7 @@ int main(void)
     printf("%i\n", Maximum);         // Print Maximum Value
 }
 
-int find_Max(int nums[numSize])
+int find_Max(int nums[])
 {
     int max = 0;
     // TODO
