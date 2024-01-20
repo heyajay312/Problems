@@ -2,8 +2,6 @@
 # Finding The Maximum Value
 
 Hello, future programmers! Today, we have an exciting challenge for you: finding the maximum value from a set of numbers. Let's break down the problem into smaller steps to make it easier to understand.
-## Access Assignment
-Copy and Paste this into your terminal window - `git clone https://github.com/heyajay312/check_problem`
 
 ## Access Assignment:
 Copy and paste this line into your terminal window - `git clone https://github.com/heyajay312/check_problem`
