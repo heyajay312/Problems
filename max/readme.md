@@ -1,5 +1,7 @@
 # Finding The Maximum Value
 Hello, future programmers! Today, we have an exciting challenge for you: finding the maximum value from a set of numbers. Let's break down the problem into smaller steps to make it easier to understand.
+## Access Assignment
+Copy and Paste this into your terminal window - `git clone https://github.com/heyajay312/check_problem`
 ## Input Numbers:
 You'll be given a variable called numSize that represents the number of values you need to find the maximum from. No need to worry about how many numbers the user will input; numSize has got you covered!
 ## Collecting Data:
