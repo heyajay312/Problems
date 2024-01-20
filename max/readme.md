@@ -16,9 +16,6 @@ Your only task is to write a function called `find_max` that takes an array of n
 
 ## Printing the Result:
 After you've found the maximum value using your function, the program will print it out for you to see.
-## How to Check your Code
-Copy and Paste this into your terminal window - `check50 heyajay312/check_problem/main/find_max`
-Then, after some time, you can check your result.
 
 ## How to Check your Code:
 Copy and paste this line into your terminal window - `check50 heyajay312/check_problem/main/find_max`. Then, after some time, you can check your result.
