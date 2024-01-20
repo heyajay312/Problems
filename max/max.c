@@ -16,13 +16,15 @@ int main(void)
         numbers[i] = get_int("Number %i: ", i + 1);
     }
 
-    int Maximum = find_Max(numbers); // Maximum Value
-    printf("%i\n", Maximum);         // Print Maximum Value
+    int Maximum = find_Max(numbers);          // Maximum Value
+    printf("The max value is %i\n", Maximum); // Print Maximum Value
 }
 
 int find_Max(int nums[])
 {
     int max = 0;
     // TODO
+
     return max;
 }
+
