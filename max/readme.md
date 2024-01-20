@@ -1,4 +1,3 @@
-
 # Finding The Maximum Value
 
 Hello, future programmers! Today, we have an exciting challenge for you: finding the maximum value from a set of numbers. Let's break down the problem into smaller steps to make it easier to understand.
