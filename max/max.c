@@ -6,11 +6,12 @@ int numSize; // Number of Values
 
 int main(void)
 {
-    numSize = get_int("Enter the number of values to find the maximum: ");
+    printf("Enter the number of values to find the maximum: ");
+    scanf("%i", numSize);
     int numbers[numSize];
 
     // Get Numbers in an array 
-    TODO
+    //TODO
 
     int Maximum = find_Max(numbers);          // Maximum Value
     printf("The max value is %i\n", Maximum); // Print Maximum Value
